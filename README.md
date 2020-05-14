@@ -2,11 +2,11 @@ Overview:
 Churn rate, in its broadest sense, is a measure of the decline in the amount of users using
 a certain service over a specific period. It is one of the major factors that determine the
 steady-state level of customers a business will support.
-In this project, we aim to work on the KKBOX, Asia’s leading music service dataset to
+In this project, I aim to work on the KKBOX, Asia’s leading music service dataset to
 analyze the data, determine the factors that will affect the churning of the uses, and finally
 predict the user churn behavior. These insights can be helpful to make efforts towards
 customer retention.
-We also intend on extending the problem statement to perform sentiment analysis to
+I also intend on extending the problem statement to perform sentiment analysis to
 predict churn based on user reviews about their experience with the service.
 
 Data:
